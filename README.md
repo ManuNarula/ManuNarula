@@ -1,5 +1,5 @@
 ### Hello, my name is Manu 
-I am a grade 11 student at Miliken Mills High School, who is going to become a software engineer in the future.
+I am a grade 11 student at Miliken Mills High School, who plans on becoming a software engineer in the future.
 
 ![](https://github-readme-stats.vercel.app/api?username=ManuNarula&&show_icons=true&title_color=FFFFFF&icon_color=D8DEE9&text_color=8FBCBB&bg_color=4C566A)
 
