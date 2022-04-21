@@ -1,6 +1,6 @@
 ### Hello, my name is Manu 
 
-I am a grade 11 student at Miliken Mills High School, who is interested in the world of Computers and Technology. This profile is gonna be the main way to keep track of my projects and progress throughout this journey!
+I am a grade 11 student at Miliken Mills High School, who is interested in the world of Computers and Technology. This profile is going to be the main way to keep track of my projects and progress throughout this journey!
 
 
 ![](https://github-readme-stats.vercel.app/api?username=ManuNarula&&show_icons=true&title_color=FFFFFF&icon_color=006596&text_color=81A3CF&bg_color=25272C)
